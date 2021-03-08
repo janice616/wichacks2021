@@ -4,6 +4,7 @@ No Right Answers is a first person choose your own adventure game. It puts you i
 You can choose how your character approaches different scenarios and how they respond.
 
 Website : https://people.rit.edu/hmc8251/WiCHack2021/
+Devpost : https://devpost.com/software/no-right-answers
 
 Inspiration
 The trans and non-gender conforming community is largely not understood by those not in the community. With this game we wanted to educate people on some of the issues these people face on a daily basis and bring light to some of the hardships they face. That's how the game lets the users put themselves in the shoes of non-gender conforming community and lets them understand the issue, so that the users would definitely think twice before making anyone feel low. Everyone should respect each creations of the nature and stop criticising.

@@ -4,6 +4,7 @@ No Right Answers is a first person choose your own adventure game. It puts you i
 You can choose how your character approaches different scenarios and how they respond.
 
 Website : https://people.rit.edu/hmc8251/WiCHack2021/
+
 Devpost : https://devpost.com/software/no-right-answers
 
 Inspiration
